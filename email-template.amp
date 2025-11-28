@@ -1,0 +1,22 @@
+Subject Line: %%=v(@subjectLine)=%%
+
+Dear %%=v(@finalName)=%%,
+
+We are deeply grateful for your generous contribution of %%=v(@totalContributions)=%% to GreenEarth. Your support is making a tremendous difference in the area of %%=v(@impactArea)=%%.
+
+Project Update:
+You'll be pleased to know that the %%=v(@projectName)=%% project is currently %%=v(@projectStatus)=%% complete. This project is focused on %%=v(@projectDesc)=%% and is expected to be completed by %%=v(@projectCompDateFormatted)=%%.
+
+%%=v(@donationCopy)=%%
+
+A Special Message from Our CEO:
+
+Dear %%=v(@finalName)=%%,
+Your commitment to our mission at GreenEarth is truly inspiring. Together, we are making the world a better place. Thank you for being a vital part of our community.
+
+Warm regards,
+CEO Name
+
+Thank you once again for your support.
+
+We look forward to continuing this journey with you and making even greater strides in our mission.
